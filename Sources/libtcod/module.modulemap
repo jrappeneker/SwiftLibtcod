@@ -1,0 +1,4 @@
+module libtcod {
+	umbrella header "swiftlibtcod_libtcod.h"
+	link "libtcod"
+}
